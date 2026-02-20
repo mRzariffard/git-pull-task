@@ -5,3 +5,10 @@ Version 1.0
 
 ## Add the update to the project
 This change was added via a Pull Request.
+<<<<<<< HEAD
+
+
+##Add another feature to the project 
+Here is the another changes for PR
+=======
+>>>>>>> 89b6512 (feat(project): add the project file in project)
